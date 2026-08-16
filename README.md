@@ -2,71 +2,70 @@
 
 ### Embedded Software Engineer | Embedded Linux | Embedded DevOps | IoT | Computer Vision
 
-I'm an **Embedded Software Engineer** with a background in **Electronics, Computer Science and Software Engineering**.
+I'm an **Embedded Software Engineer** interested in understanding systems from the hardware level up — from **MCU architecture, registers and firmware** to **Embedded Linux, IoT, Computer Vision, AI and CI/CD**.
 
-I enjoy understanding systems from the lowest hardware level — **MCU architecture, registers and firmware** — up to **Embedded Linux, IoT, Computer Vision, AI and automated CI/CD pipelines**.
-
-I am continuously learning, building and documenting projects that connect **hardware, software and intelligent systems**.
+I enjoy continuously learning new technologies and turning what I learn into practical engineering projects.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-| Area                         | Technologies & Skills                                                                        |
-| ---------------------------- | -------------------------------------------------------------------------------------------- |
-| **Programming**              | C, C++, Embedded C, Python, Java, Dart                                                       |
-| **Microcontrollers**         | STM32, ESP32, ARM Cortex-M                                                                   |
-| **Embedded Platforms**       | Raspberry Pi, NVIDIA Jetson Nano                                                             |
-| **Firmware Development**     | Bare-Metal Programming, Registers, Peripherals, Memory Management, Debugging                 |
-| **Bootloader & FOTA**        | Custom Bootloader, Flash Erase/Write, CRC, Firmware Update, Application Jump                 |
-| **Communication Protocols**  | UART, I²C, SPI, CAN, MQTT                                                                    |
-| **IoT & Connectivity**       | ESP32, MQTT, Firebase, Connected Embedded Systems                                            |
-| **Embedded Linux**           | Linux, Ubuntu, Raspberry Pi, Jetson Nano, CLI, Processes, Services, File Systems, Networking |
-| **Computer Vision**          | YOLOv8, OpenCV, Roboflow, Object Detection, Depth & Distance Estimation                      |
-| **Computer Vision Hardware** | Intel RealSense                                                                              |
-| **Edge AI & Optimization**   | NVIDIA Jetson Nano, CUDA, TensorRT                                                           |
-| **AI & Generative AI**       | RAG, LLMs, AI Agents, ChromaDB, Groq API, Ollama                                             |
-| **Code Analysis**            | AST, libclang, Rule-Based Analysis, AI-Assisted Code Review                                  |
-| **NLP & Machine Learning**   | Text Preprocessing, TF-IDF, Word Embeddings, Cosine Similarity, RNN                          |
-| **Embedded DevOps**          | CI/CD, Firmware Build Automation, Validation, Testing & Deployment                           |
-| **Containers**               | Docker, Docker Compose, Dockerfiles                                                          |
-| **CI/CD Tools**              | GitHub Actions, Jenkins                                                                      |
-| **Version Control**          | Git, GitHub, GitLab                                                                          |
-| **Collaboration & Methods**  | Jira, Agile, Scrum                                                                           |
-| **Engineering Practices**    | Testing, Validation, Debugging, Requirements Analysis, Technical Documentation               |
+### 💻 Programming
+
+[![C](https://img.shields.io/badge/C-Programming-informational?style=for-the-badge)](#-embedded-systems--firmware)
+[![C++](https://img.shields.io/badge/C++-Programming-informational?style=for-the-badge)](#-embedded-systems--firmware)
+[![Embedded C](https://img.shields.io/badge/Embedded%20C-Firmware-informational?style=for-the-badge)](#-embedded-systems--firmware)
+[![Python](https://img.shields.io/badge/Python-Automation-informational?style=for-the-badge)](#-ai--software-engineering)
+[![Java](https://img.shields.io/badge/Java-Programming-informational?style=for-the-badge)](#-tech-stack)
+[![Dart](https://img.shields.io/badge/Dart-Flutter-informational?style=for-the-badge)](#-tech-stack)
+
+---
+
+### ⚙️ Microcontrollers & Embedded Platforms
+
+[![STM32](https://img.shields.io/badge/STM32-MCU-informational?style=for-the-badge)](#-embedded-systems--firmware)
+[![ESP32](https://img.shields.io/badge/ESP32-IoT-informational?style=for-the-badge)](#-iot--fota)
+[![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-MCU-informational?style=for-the-badge)](#-embedded-systems--firmware)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Embedded%20Linux-informational?style=for-the-badge)](#-embedded-linux)
+[![Jetson Nano](https://img.shields.io/badge/NVIDIA%20Jetson%20Nano-Edge%20AI-informational?style=for-the-badge)](#-computer-vision--edge-ai)
+
+---
+
+### 🔌 Communication Protocols
+
+[![UART](https://img.shields.io/badge/UART-Communication-informational?style=for-the-badge)](#-embedded-systems--firmware)
+[![I2C](https://img.shields.io/badge/I²C-Communication-informational?style=for-the-badge)](#-embedded-systems--firmware)
+[![SPI](https://img.shields.io/badge/SPI-Communication-informational?style=for-the-badge)](#-embedded-systems--firmware)
+[![CAN](https://img.shields.io/badge/CAN-Bus-informational?style=for-the-badge)](#-embedded-systems--firmware)
+[![MQTT](https://img.shields.io/badge/MQTT-IoT-informational?style=for-the-badge)](#-iot--fota)
 
 ---
 
 ## ⚙️ Embedded Systems & Firmware
 
-My embedded journey started with **C, C++ and Embedded C**, then moved deeper into microcontrollers and low-level programming.
+[![Bare Metal](https://img.shields.io/badge/Bare--Metal-Programming-informational?style=flat-square)](#-embedded-systems--firmware)
+[![Registers](https://img.shields.io/badge/MCU-Registers-informational?style=flat-square)](#-embedded-systems--firmware)
+[![Peripherals](https://img.shields.io/badge/MCU-Peripherals-informational?style=flat-square)](#-embedded-systems--firmware)
+[![Datasheets](https://img.shields.io/badge/Datasheets-Reading-informational?style=flat-square)](#-embedded-systems--firmware)
+[![Flash](https://img.shields.io/badge/Flash-Memory-informational?style=flat-square)](#-iot--fota)
+[![Bootloader](https://img.shields.io/badge/Custom-Bootloader-informational?style=flat-square)](https://github.com/wiemm12/fota_project)
+[![FOTA](https://img.shields.io/badge/FOTA-Firmware%20Update-informational?style=flat-square)](https://github.com/wiemm12/fota_project)
+[![CRC](https://img.shields.io/badge/CRC-Firmware%20Validation-informational?style=flat-square)](https://github.com/wiemm12/fota_project)
+[![Debugging](https://img.shields.io/badge/Embedded-Debugging-informational?style=flat-square)](#-embedded-systems--firmware)
 
-I have been developing my knowledge in:
-
-* STM32 & ARM Cortex-M
-* ESP32
-* MCU architecture
-* Registers & peripherals
-* Datasheets & reference manuals
-* Flash memory
-* Memory organization
-* Bootloaders
-* FOTA
-* UART, I²C, SPI & CAN
-* CRC & firmware integrity
-* Debugging & validation
-
-I enjoy understanding not only **how to write firmware**, but also what happens underneath the code inside the microcontroller.
+I enjoy understanding what happens **underneath the code** — how instructions interact with MCU registers, memory, peripherals and communication interfaces.
 
 ---
 
 ## 📡 IoT & FOTA
 
-I have explored connected embedded systems using technologies such as:
+[![ESP32](https://img.shields.io/badge/ESP32-Gateway-informational?style=for-the-badge)](https://github.com/wiemm12/fota_project)
+[![STM32](https://img.shields.io/badge/STM32-Bootloader-informational?style=for-the-badge)](https://github.com/wiemm12/fota_project)
+[![MQTT](https://img.shields.io/badge/MQTT-Update%20Trigger-informational?style=for-the-badge)](https://github.com/wiemm12/fota_project)
+[![Firebase](https://img.shields.io/badge/Firebase-Firmware%20Storage-informational?style=for-the-badge)](https://github.com/wiemm12/fota_project)
+[![UART](https://img.shields.io/badge/UART-Firmware%20Transfer-informational?style=for-the-badge)](https://github.com/wiemm12/fota_project)
 
-**STM32 • ESP32 • MQTT • Firebase • UART**
-
-One of my projects focuses on a **Firmware Over-The-Air update architecture**, connecting cloud firmware storage with an embedded gateway and STM32 bootloader.
+### FOTA Architecture
 
 ```text
 Cloud / Firebase
@@ -75,7 +74,7 @@ Firmware Binary
        ↓
 MQTT Update Trigger
        ↓
-ESP32 / Gateway
+ESP32 Gateway
        ↓
 UART
        ↓
@@ -85,279 +84,162 @@ CRC Verification
        ↓
 Flash Programming
        ↓
-STM32 Application
+Application
 ```
 
-Through this project, I developed a deeper understanding of **bootloaders, Flash memory, firmware transfer, communication protocols and firmware validation**.
+➡️ **[Explore my FOTA project](https://github.com/wiemm12/fota_project)**
 
 ---
 
 ## 🐧 Embedded Linux
 
-As my projects became more complex, I started expanding my knowledge into **Linux and Embedded Linux**.
+[![Linux CLI](https://img.shields.io/badge/Linux-Command%20Line-informational?style=for-the-badge)](#-embedded-linux)
+[![Processes](https://img.shields.io/badge/Linux-Processes-informational?style=for-the-badge)](#-embedded-linux)
+[![Services](https://img.shields.io/badge/Linux-Services-informational?style=for-the-badge)](#-embedded-linux)
+[![File Systems](https://img.shields.io/badge/Linux-File%20Systems-informational?style=for-the-badge)](#-embedded-linux)
+[![Shell](https://img.shields.io/badge/Shell-Scripting-informational?style=for-the-badge)](#-embedded-linux)
+[![Networking](https://img.shields.io/badge/Linux-Networking-informational?style=for-the-badge)](#-embedded-linux)
+[![Debugging](https://img.shields.io/badge/Linux-Debugging-informational?style=for-the-badge)](#-embedded-linux)
 
-Platforms I work with include:
+### Platforms
 
-* 🥧 **Raspberry Pi**
-* ⚡ **NVIDIA Jetson Nano**
-
-My Linux focus includes:
-
-* Linux command line
-* Processes & services
-* File systems
-* Shell scripting
-* Networking
-* Application execution
-* Debugging
-* Embedded Linux environments
-* Hardware/software interaction
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Embedded%20Platform-informational?style=flat-square)](#-embedded-linux)
+[![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-Linux%20Platform-informational?style=flat-square)](#-computer-vision--edge-ai)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-informational?style=flat-square)](#-embedded-linux)
 
 ---
 
-## 🐳 Docker & Development Environments
+## 🐳 Docker & Containers
 
-I use **Docker** to create isolated and reproducible development environments.
+[![Docker](https://img.shields.io/badge/Docker-Containers-informational?style=for-the-badge)](#-docker--containers)
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Environment-informational?style=for-the-badge)](#-docker--containers)
+[![Dockerfile](https://img.shields.io/badge/Dockerfile-Build-informational?style=for-the-badge)](#-docker--containers)
+[![Reproducible Builds](https://img.shields.io/badge/Reproducible-Builds-informational?style=for-the-badge)](#-embedded-devops--cicd)
 
-My experience includes:
-
-* Docker
-* Docker Compose
-* Dockerfiles
-* Containers & images
-* Dependency management
-* Reproducible development environments
-* Containerized CI/CD workflows
-
-```text
-Source Code
-     ↓
-Docker Environment
-     ↓
-Build
-     ↓
-Validation
-     ↓
-Testing
-     ↓
-CI/CD
-```
+I use containers to create **reproducible development and CI/CD environments**.
 
 ---
 
 ## 🚗 Computer Vision & Edge AI
 
-I have worked on **Computer Vision for autonomous vehicle applications**, including real-time object detection and distance estimation.
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-informational?style=for-the-badge)](#-computer-vision--edge-ai)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-informational?style=for-the-badge)](#-computer-vision--edge-ai)
+[![Roboflow](https://img.shields.io/badge/Roboflow-Dataset-informational?style=for-the-badge)](#-computer-vision--edge-ai)
+[![RealSense](https://img.shields.io/badge/Intel%20RealSense-RGB%20%2B%20Depth-informational?style=for-the-badge)](#-computer-vision--edge-ai)
+[![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson%20Nano-Edge%20Inference-informational?style=for-the-badge)](#-computer-vision--edge-ai)
+[![CUDA](https://img.shields.io/badge/CUDA-GPU-informational?style=for-the-badge)](#-computer-vision--edge-ai)
+[![TensorRT](https://img.shields.io/badge/TensorRT-Optimization-informational?style=for-the-badge)](#-computer-vision--edge-ai)
 
-### Technologies
-
-**YOLOv8 • Roboflow • OpenCV • NVIDIA Jetson Nano • Intel RealSense • CUDA • TensorRT**
-
-My work included:
-
-* Building custom object-detection datasets
-* Training YOLOv8 models
-* Real-time object detection
-* RGB + depth processing
-* Distance estimation
-* NVIDIA Jetson Nano deployment
-* Edge inference
-* System integration
-* Testing & validation
-
-```text
-Camera / RealSense
-        ↓
-Image Acquisition
-        ↓
-Computer Vision
-        ↓
-YOLOv8 Detection
-        ↓
-RGB + Depth Data
-        ↓
-Distance Estimation
-        ↓
-Edge Processing
-        ↓
-NVIDIA Jetson Nano
-```
+My experience includes **object detection, RGB/depth processing, distance estimation and real-time inference on embedded platforms**.
 
 ---
 
 ## 🔄 Embedded DevOps & CI/CD
 
-One of my main interests is connecting **Embedded Software Development with modern DevOps practices**.
-
-I have worked on automating firmware and software workflows using:
-
-**GitHub Actions • GitLab • Git • Docker • Jenkins • Python • Jira**
+[![Git](https://img.shields.io/badge/Git-Version%20Control-informational?style=for-the-badge)](#-embedded-devops--cicd)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-informational?style=for-the-badge)](#-embedded-devops--cicd)
+[![GitLab](https://img.shields.io/badge/GitLab-DevOps-informational?style=for-the-badge)](#-embedded-devops--cicd)
+[![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-informational?style=for-the-badge)](#-embedded-devops--cicd)
+[![Docker](https://img.shields.io/badge/Docker-CI%2FCD-informational?style=for-the-badge)](#-docker--containers)
+[![Python](https://img.shields.io/badge/Python-Automation-informational?style=for-the-badge)](#-embedded-devops--cicd)
+[![Jira](https://img.shields.io/badge/Jira-Agile-informational?style=for-the-badge)](#-embedded-devops--cicd)
 
 ```text
-Developer
-    ↓
+Code
+  ↓
 Git Push
-    ↓
+  ↓
 CI/CD Pipeline
-    ↓
+  ↓
 Code Analysis
-    ↓
-Code Validation
-    ↓
+  ↓
+Validation
+  ↓
 Firmware Build
-    ↓
-Bootloader Build
-    ↓
-Application Build
-    ↓
+  ↓
 Testing
-    ↓
-Firmware Merge
-    ↓
-Build Artifacts
-    ↓
+  ↓
+Firmware Packaging
+  ↓
 Deployment
 ```
 
-My goal is to make embedded development more **reliable, reproducible and automated**.
+---
+
+## 🤖 AI & Software Engineering
+
+[![RAG](https://img.shields.io/badge/RAG-AI-informational?style=for-the-badge)](#-ai--software-engineering)
+[![LLM](https://img.shields.io/badge/LLM-AI-informational?style=for-the-badge)](#-ai--software-engineering)
+[![AI Agents](https://img.shields.io/badge/AI-Agents-informational?style=for-the-badge)](#-ai--software-engineering)
+[![AST](https://img.shields.io/badge/AST-Code%20Analysis-informational?style=for-the-badge)](#-ai--software-engineering)
+[![libclang](https://img.shields.io/badge/libclang-C%2FC++%20Analysis-informational?style=for-the-badge)](#-ai--software-engineering)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Database-informational?style=for-the-badge)](#-ai--software-engineering)
+[![Groq](https://img.shields.io/badge/Groq-LLM%20API-informational?style=for-the-badge)](#-ai--software-engineering)
+[![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-informational?style=for-the-badge)](#-ai--software-engineering)
+
+I have worked on an **AI-assisted code-review system** combining deterministic code analysis with RAG and LLM-based recommendations.
 
 ---
 
-## 🤖 AI-Assisted Software Engineering
+## 🧠 Machine Learning & NLP
 
-I have also explored how **AI can support software and embedded development workflows**.
-
-I developed an AI-assisted code-review solution combining:
-
-```text
-C Source Code
-      ↓
-AST / libclang
-      ↓
-Deterministic Rules
-      ↓
-RAG Knowledge Base
-      ↓
-LLM Analysis
-      ↓
-Recommendations
-      ↓
-Structured JSON Report
-      ↓
-CI/CD Pipeline
-```
-
-### Technologies
-
-* Python
-* AST
-* libclang
-* RAG
-* LLMs
-* AI Agents
-* ChromaDB
-* Groq API
-* Ollama
-* Llama models
-* Rule-based code analysis
-* Automated report generation
+[![NLP](https://img.shields.io/badge/NLP-Text%20Processing-informational?style=flat-square)](#-machine-learning--nlp)
+[![TF-IDF](https://img.shields.io/badge/TF--IDF-NLP-informational?style=flat-square)](#-machine-learning--nlp)
+[![Embeddings](https://img.shields.io/badge/Word-Embeddings-informational?style=flat-square)](#-machine-learning--nlp)
+[![Cosine Similarity](https://img.shields.io/badge/Cosine-Similarity-informational?style=flat-square)](#-machine-learning--nlp)
+[![RNN](https://img.shields.io/badge/RNN-Neural%20Networks-informational?style=flat-square)](#-machine-learning--nlp)
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
-| Experience                   | Main Focus                                                           |
-| ---------------------------- | -------------------------------------------------------------------- |
-| **AI & DevOps Engineer**     | AI Code Review, AST/libclang, RAG/LLM, GitHub Actions, Docker, CI/CD |
-| **R&D Engineer**             | Sensors, Data Acquisition, Process Control, System Integration       |
-| **Computer Vision Engineer** | YOLOv8, Jetson Nano, Intel RealSense, Autonomous Vehicle Perception  |
-| **Software Developer**       | Accident Detection, Emergency Notification, Flutter                  |
+| Role                         | Main Focus                                                        |
+| ---------------------------- | ----------------------------------------------------------------- |
+| **AI & DevOps Engineer**     | AI Code Review • RAG/LLM • GitHub Actions • Docker • CI/CD        |
+| **R&D Engineer**             | Sensors • Data Acquisition • Process Control • System Integration |
+| **Computer Vision Engineer** | YOLOv8 • Jetson Nano • Intel RealSense • Autonomous Vehicle       |
+| **Software Developer**       | Accident Detection • Emergency Notification • Flutter             |
 
 ---
 
 ## 🎓 Education
 
-### Engineering Degree in Computer Science & Technology
+### 🎓 Engineering Degree — Computer Science & Technology
 
 **Higher Institute of Informatics and Mathematics of Monastir**
-2023 – 2026
 
-### Bachelor's Degree in Electronics, Electrical Engineering & Automation
+### 🎓 Bachelor's Degree — Electronics, Electrical Engineering & Automation
 
 **Higher Institute of Applied Sciences and Technology of Mahdia**
-2020 – 2023
 
 ---
 
-## 📜 Certifications & Continuous Learning
+## 📜 Certifications & Learning
 
-I continuously strengthen my knowledge through technical courses, certifications and hands-on projects in:
-
-* STM32 Bootloader & FOTA
-* Embedded Systems
-* Linux & Embedded Linux
-* Jenkins & CI/CD
-* Docker
-* Computer Vision
-* Natural Language Processing
-* AI & Machine Learning
+[![FOTA](https://img.shields.io/badge/STM32-FOTA%20%26%20Bootloader-success?style=for-the-badge)](https://github.com/wiemm12/fota_project)
+[![Jenkins](https://img.shields.io/badge/Linux%20Foundation-Jenkins-success?style=for-the-badge)](#-certifications--learning)
+[![NLP](https://img.shields.io/badge/Udemy-NLP%20Chatbot-success?style=for-the-badge)](#-certifications--learning)
 
 ---
 
-## 🚀 My Engineering Journey
+## 📚 Currently Learning
 
-```text
-C / C++ / Embedded C
-          ↓
-Electronics & MCU Architecture
-          ↓
-STM32 / ESP32
-          ↓
-Firmware Development
-          ↓
-Bootloader & FOTA
-          ↓
-UART / I²C / SPI / CAN
-          ↓
-IoT & MQTT
-          ↓
-Embedded Linux
-          ↓
-Raspberry Pi / Jetson Nano
-          ↓
-Computer Vision & Edge AI
-          ↓
-Docker
-          ↓
-Embedded DevOps & CI/CD
-```
+[![Architecture](https://img.shields.io/badge/Embedded-Software%20Architecture-informational?style=flat-square)](#-currently-learning)
+[![Device Drivers](https://img.shields.io/badge/Linux-Device%20Drivers-informational?style=flat-square)](#-currently-learning)
+[![Embedded Linux](https://img.shields.io/badge/Embedded-Linux-informational?style=flat-square)](#-currently-learning)
+[![IoT](https://img.shields.io/badge/IoT-Architecture-informational?style=flat-square)](#-currently-learning)
+[![CI/CD](https://img.shields.io/badge/Embedded-CI%2FCD-informational?style=flat-square)](#-currently-learning)
+[![Edge AI](https://img.shields.io/badge/Edge-AI-informational?style=flat-square)](#-currently-learning)
 
 ---
 
-## 📚 Currently Growing In
+## 📫 Connect With Me
 
-I am currently strengthening my knowledge in:
-
-* Embedded Software Architecture
-* STM32 & ARM Cortex-M
-* ESP32
-* Embedded Linux
-* Linux Device Drivers
-* Bootloaders & FOTA
-* IoT Architecture
-* Communication Protocols
-* Raspberry Pi
-* NVIDIA Jetson
-* Docker
-* Embedded CI/CD
-* Edge AI & Computer Vision
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wiem%20Chebbi-informational?style=for-the-badge)](https://www.linkedin.com/in/wiem-chebbi1)
+[![GitHub](https://img.shields.io/badge/GitHub-wiemm12-informational?style=for-the-badge)](https://github.com/wiemm12)
 
 ---
 
-## 💡 What Drives Me
+### 💡 My Engineering Mindset
 
-What I enjoy most about embedded engineering is understanding **what happens behind the code**.
-
-A single line of C can lead to an MCU register, a peripheral, a communication bus, an operating system, an edge-computing platform or even an entire automated deployment pipeline.
-
-I enjoy exploring those layers, understanding how they connect, and continuously turning what I learn into practical projects.
+> I enjoy understanding what happens behind the code — from an MCU register and communication bus to Embedded Linux, Edge AI and an automated CI/CD pipeline.
