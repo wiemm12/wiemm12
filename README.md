@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wiem Chebbi
+# Hi, I'm Wiem Chebbi
 
 ### Embedded Software Engineer | Embedded Linux | Embedded DevOps | IoT | Computer Vision
 
@@ -8,9 +8,9 @@ I enjoy understanding systems from the hardware level up — from **MCU architec
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming
+### Programming
 
 ![C](https://img.shields.io/badge/C-20232A?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-20232A?style=flat-square)
@@ -20,7 +20,7 @@ I enjoy understanding systems from the hardware level up — from **MCU architec
 ![Dart](https://img.shields.io/badge/Dart-20232A?style=flat-square)
 ![Flutter](https://img.shields.io/badge/Flutter-20232A?style=flat-square)
 
-### ⚙️ Microcontrollers & Embedded Platforms
+### Microcontrollers & Embedded Platforms
 
 ![STM32](https://img.shields.io/badge/STM32-20232A?style=flat-square)
 ![ESP32](https://img.shields.io/badge/ESP32-20232A?style=flat-square)
@@ -28,7 +28,7 @@ I enjoy understanding systems from the hardware level up — from **MCU architec
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-20232A?style=flat-square)
 ![NVIDIA Jetson Nano](https://img.shields.io/badge/NVIDIA_Jetson_Nano-20232A?style=flat-square)
 
-### 🔌 Communication & IoT
+### Communication & IoT
 
 ![UART](https://img.shields.io/badge/UART-20232A?style=flat-square)
 ![I2C](https://img.shields.io/badge/I²C-20232A?style=flat-square)
@@ -39,7 +39,7 @@ I enjoy understanding systems from the hardware level up — from **MCU architec
 ![GSM/GPRS](https://img.shields.io/badge/GSM%2FGPRS-20232A?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=flat-square)
 
-### 🐧 Embedded Linux
+### Embedded Linux
 
 ![Linux](https://img.shields.io/badge/Linux-20232A?style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-20232A?style=flat-square)
@@ -50,7 +50,7 @@ I enjoy understanding systems from the hardware level up — from **MCU architec
 ![Networking](https://img.shields.io/badge/Networking-20232A?style=flat-square)
 ![Debugging](https://img.shields.io/badge/Linux_Debugging-20232A?style=flat-square)
 
-### 🔄 Embedded DevOps
+### Embedded DevOps
 
 ![Git](https://img.shields.io/badge/Git-20232A?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=flat-square)
@@ -61,7 +61,7 @@ I enjoy understanding systems from the hardware level up — from **MCU architec
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-20232A?style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-20232A?style=flat-square)
 
-### 🚗 Computer Vision & Edge AI
+### Computer Vision & Edge AI
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-20232A?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-20232A?style=flat-square)
@@ -72,7 +72,7 @@ I enjoy understanding systems from the hardware level up — from **MCU architec
 ![Object Detection](https://img.shields.io/badge/Object_Detection-20232A?style=flat-square)
 ![Depth Estimation](https://img.shields.io/badge/Depth_Estimation-20232A?style=flat-square)
 
-### 🤖 AI & Software Engineering
+### AI & Software Engineering
 
 ![RAG](https://img.shields.io/badge/RAG-20232A?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-20232A?style=flat-square)
@@ -85,7 +85,7 @@ I enjoy understanding systems from the hardware level up — from **MCU architec
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## [STM32 FOTA & Custom Bootloader](https://github.com/wiemm12/fota_project)
 
@@ -106,7 +106,7 @@ Firmware Over-The-Air system combining an **STM32 custom bootloader**, ESP32 gat
 
 ## AI-Assisted Embedded C Code Reviewer
 
-AI-powered source-code review system combining **AST/libclang analysis, deterministic coding rules and RAG/LLM reasoning** to analyze C/C++ code and generate structured recommendations.
+AI-powered code-review system combining **AST/libclang analysis, deterministic coding rules and RAG/LLM reasoning** to analyze C/C++ source code and generate structured recommendations.
 
 ![Python](https://img.shields.io/badge/Python-20232A?style=flat-square)
 ![C/C++](https://img.shields.io/badge/C%2FC++-20232A?style=flat-square)
@@ -186,7 +186,7 @@ Connected road-safety system designed to detect accidents and automatically prov
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### AI & DevOps Engineer Intern — Be Wireless Solutions
 
@@ -229,21 +229,7 @@ Connected road-safety system designed to detect accidents and automatically prov
 
 ---
 
-# 🎓 Education
-
-### Engineering Degree in Computer Science & Technology
-
-**Higher Institute of Informatics and Mathematics of Monastir**
-2023 – 2026
-
-### Bachelor's Degree in Electronics, Electrical Engineering & Automation
-
-**Higher Institute of Applied Sciences and Technology of Mahdia**
-2020 – 2023
-
----
-
-# 📜 Certifications
+# Certifications
 
 ### STM32 Bootloader & FOTA
 
@@ -266,7 +252,7 @@ Connected road-safety system designed to detect accidents and automatically prov
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 ![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-20232A?style=flat-square)
 ![Device Drivers](https://img.shields.io/badge/Linux_Device_Drivers-20232A?style=flat-square)
@@ -277,11 +263,11 @@ Connected road-safety system designed to detect accidents and automatically prov
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wiem_Chebbi-20232A?style=for-the-badge)](https://www.linkedin.com/in/wiem-chebbi1)
+[LinkedIn — Wiem Chebbi](https://www.linkedin.com/in/wiem-chebbi1)
 
-[![GitHub](https://img.shields.io/badge/GitHub-wiemm12-20232A?style=for-the-badge)](https://github.com/wiemm12)
+[GitHub — wiemm12](https://github.com/wiemm12)
 
 ---
 
