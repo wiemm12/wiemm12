@@ -1,111 +1,197 @@
 # 👋 Hi, I'm Wiem Chebbi
 
-I'm an **Embedded Software Engineer** who enjoys learning new technologies by going deeper into how systems actually work.
+### Embedded Software Engineer | Embedded Linux | Embedded DevOps | IoT | Computer Vision
 
-My journey in embedded systems has been progressive — each step helped me understand a new layer, from programming languages to microcontrollers, Linux systems, computer vision and finally Embedded DevOps.
+I'm an **Embedded Software Engineer** with a background in **Electronics, Computer Science and Software Engineering**.
 
----
+I enjoy understanding systems from the lowest hardware level — **MCU architecture, registers and firmware** — up to **Embedded Linux, IoT, Computer Vision, AI and automated CI/CD pipelines**.
 
-## 🌱 How My Embedded Journey Started
-
-I started by strengthening my programming fundamentals with:
-
-* **C**
-* **C++**
-* **Embedded C**
-
-This helped me understand memory management, pointers, data structures, debugging and how software interacts more closely with hardware.
-
-From there, I became increasingly interested in what happens underneath the code.
+I am continuously learning, building and documenting projects that connect **hardware, software and intelligent systems**.
 
 ---
 
-## ⚙️ Going Deeper into Microcontrollers
+## 🛠️ Technical Skills
 
-My next step was working with **STM32 microcontrollers**.
-
-Instead of only using libraries, I wanted to understand what was really happening inside the MCU.
-
-I learned how to:
-
-* Read and understand **MCU datasheets and reference manuals**
-* Understand **microcontroller architecture**
-* Work with **registers**
-* Configure and use MCU peripherals
-* Understand memory organization
-* Work with communication interfaces such as **I²C, SPI, UART and CAN**
-* Understand startup sequences and **bootloaders**
-* Debug embedded firmware
-
-This stage helped me move from simply writing embedded code to understanding the hardware behind it.
-
----
-
-## 🚗 Exploring Computer Vision
-
-After working with microcontrollers, I had the opportunity to explore **computer vision in automotive applications**.
-
-This introduced me to another side of embedded systems: combining hardware, software and intelligent perception.
-
-I worked with technologies such as:
-
-* **OpenCV**
-* **Object Detection**
-* **Distance Estimation**
-* **Jetson Nano**
-* **CUDA**
-* **TensorRT**
-
-This experience helped me understand how computer vision algorithms can be optimized and deployed on embedded platforms.
+| Area                         | Technologies & Skills                                                                        |
+| ---------------------------- | -------------------------------------------------------------------------------------------- |
+| **Programming**              | C, C++, Embedded C, Python, Java, Dart                                                       |
+| **Microcontrollers**         | STM32, ESP32, ARM Cortex-M                                                                   |
+| **Embedded Platforms**       | Raspberry Pi, NVIDIA Jetson Nano                                                             |
+| **Firmware Development**     | Bare-Metal Programming, Registers, Peripherals, Memory Management, Debugging                 |
+| **Bootloader & FOTA**        | Custom Bootloader, Flash Erase/Write, CRC, Firmware Update, Application Jump                 |
+| **Communication Protocols**  | UART, I²C, SPI, CAN, MQTT                                                                    |
+| **IoT & Connectivity**       | ESP32, MQTT, Firebase, Connected Embedded Systems                                            |
+| **Embedded Linux**           | Linux, Ubuntu, Raspberry Pi, Jetson Nano, CLI, Processes, Services, File Systems, Networking |
+| **Computer Vision**          | YOLOv8, OpenCV, Roboflow, Object Detection, Depth & Distance Estimation                      |
+| **Computer Vision Hardware** | Intel RealSense                                                                              |
+| **Edge AI & Optimization**   | NVIDIA Jetson Nano, CUDA, TensorRT                                                           |
+| **AI & Generative AI**       | RAG, LLMs, AI Agents, ChromaDB, Groq API, Ollama                                             |
+| **Code Analysis**            | AST, libclang, Rule-Based Analysis, AI-Assisted Code Review                                  |
+| **NLP & Machine Learning**   | Text Preprocessing, TF-IDF, Word Embeddings, Cosine Similarity, RNN                          |
+| **Embedded DevOps**          | CI/CD, Firmware Build Automation, Validation, Testing & Deployment                           |
+| **Containers**               | Docker, Docker Compose, Dockerfiles                                                          |
+| **CI/CD Tools**              | GitHub Actions, Jenkins                                                                      |
+| **Version Control**          | Git, GitHub, GitLab                                                                          |
+| **Collaboration & Methods**  | Jira, Agile, Scrum                                                                           |
+| **Engineering Practices**    | Testing, Validation, Debugging, Requirements Analysis, Technical Documentation               |
 
 ---
 
-## 🐧 Moving into Embedded Linux
+## ⚙️ Embedded Systems & Firmware
 
-As my projects became more complex, I started learning and practicing **Linux** more deeply.
+My embedded journey started with **C, C++ and Embedded C**, then moved deeper into microcontrollers and low-level programming.
 
-I became more comfortable working from the command line and understanding how embedded applications interact with the operating system.
+I have been developing my knowledge in:
 
-My learning includes:
+* STM32 & ARM Cortex-M
+* ESP32
+* MCU architecture
+* Registers & peripherals
+* Datasheets & reference manuals
+* Flash memory
+* Memory organization
+* Bootloaders
+* FOTA
+* UART, I²C, SPI & CAN
+* CRC & firmware integrity
+* Debugging & validation
+
+I enjoy understanding not only **how to write firmware**, but also what happens underneath the code inside the microcontroller.
+
+---
+
+## 📡 IoT & FOTA
+
+I have explored connected embedded systems using technologies such as:
+
+**STM32 • ESP32 • MQTT • Firebase • UART**
+
+One of my projects focuses on a **Firmware Over-The-Air update architecture**, connecting cloud firmware storage with an embedded gateway and STM32 bootloader.
+
+```text
+Cloud / Firebase
+       ↓
+Firmware Binary
+       ↓
+MQTT Update Trigger
+       ↓
+ESP32 / Gateway
+       ↓
+UART
+       ↓
+STM32 Bootloader
+       ↓
+CRC Verification
+       ↓
+Flash Programming
+       ↓
+STM32 Application
+```
+
+Through this project, I developed a deeper understanding of **bootloaders, Flash memory, firmware transfer, communication protocols and firmware validation**.
+
+---
+
+## 🐧 Embedded Linux
+
+As my projects became more complex, I started expanding my knowledge into **Linux and Embedded Linux**.
+
+Platforms I work with include:
+
+* 🥧 **Raspberry Pi**
+* ⚡ **NVIDIA Jetson Nano**
+
+My Linux focus includes:
 
 * Linux command line
-* Processes and services
+* Processes & services
 * File systems
 * Shell scripting
-* Networking basics
-* Building and running applications on Linux
-* Working with Embedded Linux platforms
-* Debugging applications in Linux environments
-
-Working with **Jetson Nano** also helped me gain more practical Linux experience.
+* Networking
+* Application execution
+* Debugging
+* Embedded Linux environments
+* Hardware/software interaction
 
 ---
 
-## 🐳 Learning Docker
+## 🐳 Docker & Development Environments
 
-While working with Linux and development environments, I also started using **Docker**.
+I use **Docker** to create isolated and reproducible development environments.
 
-Docker helped me understand how development environments can be isolated, reproducible and easily shared between developers and CI/CD systems.
+My experience includes:
 
-I use Docker to learn more about:
-
-* Containers
-* Docker images
+* Docker
+* Docker Compose
 * Dockerfiles
-* Development environments
+* Containers & images
 * Dependency management
-* Reproducible builds
-* CI/CD environments
+* Reproducible development environments
+* Containerized CI/CD workflows
+
+```text
+Source Code
+     ↓
+Docker Environment
+     ↓
+Build
+     ↓
+Validation
+     ↓
+Testing
+     ↓
+CI/CD
+```
 
 ---
 
-## 🔄 Discovering Embedded DevOps
+## 🚗 Computer Vision & Edge AI
 
-More recently, I started focusing on **Embedded DevOps and CI/CD**.
+I have worked on **Computer Vision for autonomous vehicle applications**, including real-time object detection and distance estimation.
 
-I became interested in improving not only the firmware itself, but also the entire development workflow around it.
+### Technologies
 
-I have worked on automating processes such as:
+**YOLOv8 • Roboflow • OpenCV • NVIDIA Jetson Nano • Intel RealSense • CUDA • TensorRT**
+
+My work included:
+
+* Building custom object-detection datasets
+* Training YOLOv8 models
+* Real-time object detection
+* RGB + depth processing
+* Distance estimation
+* NVIDIA Jetson Nano deployment
+* Edge inference
+* System integration
+* Testing & validation
+
+```text
+Camera / RealSense
+        ↓
+Image Acquisition
+        ↓
+Computer Vision
+        ↓
+YOLOv8 Detection
+        ↓
+RGB + Depth Data
+        ↓
+Distance Estimation
+        ↓
+Edge Processing
+        ↓
+NVIDIA Jetson Nano
+```
+
+---
+
+## 🔄 Embedded DevOps & CI/CD
+
+One of my main interests is connecting **Embedded Software Development with modern DevOps practices**.
+
+I have worked on automating firmware and software workflows using:
+
+**GitHub Actions • GitLab • Git • Docker • Jenkins • Python • Jira**
 
 ```text
 Developer
@@ -114,74 +200,164 @@ Git Push
     ↓
 CI/CD Pipeline
     ↓
+Code Analysis
+    ↓
 Code Validation
     ↓
 Firmware Build
     ↓
 Bootloader Build
     ↓
-Firmware Merge
+Application Build
     ↓
 Testing
     ↓
+Firmware Merge
+    ↓
 Build Artifacts
+    ↓
+Deployment
 ```
 
-Through this, I have been learning and working with:
-
-* **Git**
-* **GitHub Actions**
-* **CI/CD**
-* **Docker**
-* **Python automation**
-* Firmware build automation
-* Code validation
-* Automated testing
-* Firmware packaging and deployment workflows
+My goal is to make embedded development more **reliable, reproducible and automated**.
 
 ---
 
-## 🧠 What I'm Learning Now
+## 🤖 AI-Assisted Software Engineering
 
-My goal is to keep connecting all these areas together:
+I have also explored how **AI can support software and embedded development workflows**.
+
+I developed an AI-assisted code-review solution combining:
 
 ```text
-C / C++
-    ↓
-MCU & STM32
-    ↓
-Firmware
-    ↓
-Communication Protocols
-    ↓
+C Source Code
+      ↓
+AST / libclang
+      ↓
+Deterministic Rules
+      ↓
+RAG Knowledge Base
+      ↓
+LLM Analysis
+      ↓
+Recommendations
+      ↓
+Structured JSON Report
+      ↓
+CI/CD Pipeline
+```
+
+### Technologies
+
+* Python
+* AST
+* libclang
+* RAG
+* LLMs
+* AI Agents
+* ChromaDB
+* Groq API
+* Ollama
+* Llama models
+* Rule-based code analysis
+* Automated report generation
+
+---
+
+## 💼 Experience Highlights
+
+| Experience                   | Main Focus                                                           |
+| ---------------------------- | -------------------------------------------------------------------- |
+| **AI & DevOps Engineer**     | AI Code Review, AST/libclang, RAG/LLM, GitHub Actions, Docker, CI/CD |
+| **R&D Engineer**             | Sensors, Data Acquisition, Process Control, System Integration       |
+| **Computer Vision Engineer** | YOLOv8, Jetson Nano, Intel RealSense, Autonomous Vehicle Perception  |
+| **Software Developer**       | Accident Detection, Emergency Notification, Flutter                  |
+
+---
+
+## 🎓 Education
+
+### Engineering Degree in Computer Science & Technology
+
+**Higher Institute of Informatics and Mathematics of Monastir**
+2023 – 2026
+
+### Bachelor's Degree in Electronics, Electrical Engineering & Automation
+
+**Higher Institute of Applied Sciences and Technology of Mahdia**
+2020 – 2023
+
+---
+
+## 📜 Certifications & Continuous Learning
+
+I continuously strengthen my knowledge through technical courses, certifications and hands-on projects in:
+
+* STM32 Bootloader & FOTA
+* Embedded Systems
+* Linux & Embedded Linux
+* Jenkins & CI/CD
+* Docker
+* Computer Vision
+* Natural Language Processing
+* AI & Machine Learning
+
+---
+
+## 🚀 My Engineering Journey
+
+```text
+C / C++ / Embedded C
+          ↓
+Electronics & MCU Architecture
+          ↓
+STM32 / ESP32
+          ↓
+Firmware Development
+          ↓
+Bootloader & FOTA
+          ↓
+UART / I²C / SPI / CAN
+          ↓
+IoT & MQTT
+          ↓
 Embedded Linux
-    ↓
+          ↓
+Raspberry Pi / Jetson Nano
+          ↓
+Computer Vision & Edge AI
+          ↓
 Docker
-    ↓
-Computer Vision
-    ↓
+          ↓
 Embedded DevOps & CI/CD
 ```
 
-I am especially interested in continuing to improve my knowledge in:
+---
+
+## 📚 Currently Growing In
+
+I am currently strengthening my knowledge in:
 
 * Embedded Software Architecture
-* STM32 and ARM Cortex-M
+* STM32 & ARM Cortex-M
+* ESP32
 * Embedded Linux
-* Device Drivers
-* Bootloaders
+* Linux Device Drivers
+* Bootloaders & FOTA
+* IoT Architecture
 * Communication Protocols
-* IoT
+* Raspberry Pi
+* NVIDIA Jetson
 * Docker
-* CI/CD for Embedded Systems
-* Computer Vision on Edge Devices
+* Embedded CI/CD
+* Edge AI & Computer Vision
 
 ---
 
-## 🚀 My Mindset
+## 💡 What Drives Me
 
-What I enjoy most about embedded engineering is that there is always another layer to understand.
+What I enjoy most about embedded engineering is understanding **what happens behind the code**.
 
-A simple line of C code can lead to a register, a peripheral, a communication bus, an operating system, a Linux process or even an entire automated deployment pipeline.
+A single line of C can lead to an MCU register, a peripheral, a communication bus, an operating system, an edge-computing platform or even an entire automated deployment pipeline.
 
-That constant learning process is what keeps me interested in embedded systems.
+I enjoy exploring those layers, understanding how they connect, and continuously turning what I learn into practical projects.
